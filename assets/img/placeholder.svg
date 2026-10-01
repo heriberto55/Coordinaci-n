@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Imagen institucional">
+  <rect width="900" height="520" fill="#f7f3ed"/>
+  <rect x="36" y="36" width="828" height="448" rx="28" fill="#ffffff" stroke="#e4d9cb"/>
+  <path d="M0 400c95-45 185 20 270-8s152-62 250-22 192 15 380-48v198H0z" fill="#9d2449" opacity=".16"/>
+  <circle cx="716" cy="146" r="70" fill="#1aa6a1" opacity=".18"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="700" fill="#9d2449">Coordinacion Academica</text>
+  <text x="450" y="296" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="18" fill="#5d6671">Subsecretaria de Educacion Basica</text>
+</svg>
+
